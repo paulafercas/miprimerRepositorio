@@ -1,0 +1,7 @@
+Segundo archivo
+8:34 a.m.
+
+Hoy es el primer taller de git y github
+Se trabajará al final en parejas en jueguito trikki
+
+Cambio numero 1 de la primera rama
